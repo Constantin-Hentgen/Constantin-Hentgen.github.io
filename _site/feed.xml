@@ -1,0 +1,203 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Constantin Hentgen</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-01-13T22:41:49+01:00</updated>
+  <author>
+    <name>Constantin Hentgen</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Constantin Hentgen </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Text-Parser</title>
+    <link href="http://localhost:4000/posts/Text-Parser/" rel="alternate" type="text/html" title="Text-Parser" />
+    <published>2019-08-08T08:10:00+02:00</published>
+  
+    <updated>2019-08-08T08:10:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Text-Parser/</id>
+    <content src="http://localhost:4000/posts/Text-Parser/" />
+    <author>
+      <name>Constantin Hentgen</name>
+    </author>
+
+  
+    
+    <category term="Python" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Objective
+
+Following my first experiences in typing, I wanted to develop a program to analyze the frequencies of letters and characters in order to generate an optimal configuration according to the inputs. At present, this program allows to compare up to 3 text sources and to produce a pdf report.
+
+Below are excerpts from a report comparing text sources of different languages.
+
+
+
+The program p...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Prime-Explo</title>
+    <link href="http://localhost:4000/posts/Prime-Explo/" rel="alternate" type="text/html" title="Prime-Explo" />
+    <published>2019-08-08T08:10:00+02:00</published>
+  
+    <updated>2019-08-08T08:10:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Prime-Explo/</id>
+    <content src="http://localhost:4000/posts/Prime-Explo/" />
+    <author>
+      <name>Constantin Hentgen</name>
+    </author>
+
+  
+    
+    <category term="Project" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Objectif
+
+Constituer une base de données de nombres premiers et nombres premiers remarquables. Également mettre à disposition des fonctions de test sur des nombres premiers.
+
+Contexte
+
+Petit projet python pour faire quelques maths appliquées lors de mon Erasmus au Danemark.
+
+Technologies
+
+
+  Python3
+    
+      MathPlotLib
+      Numpy
+      Multiprocessing
+      Pathos
+    
+  
+  LaTeX
+  MySQL
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Portfolio</title>
+    <link href="http://localhost:4000/posts/Portfolio/" rel="alternate" type="text/html" title="Portfolio" />
+    <published>2019-08-08T08:10:00+02:00</published>
+  
+    <updated>2019-08-08T08:10:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/Portfolio/</id>
+    <content src="http://localhost:4000/posts/Portfolio/" />
+    <author>
+      <name>Constantin Hentgen</name>
+    </author>
+
+  
+    
+    <category term="Project" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Context
+
+Web development is what made me start and love computer science, that’s why creating my own website was inevitable. It was the opportunity for me to realize what I knew how to do best after a few years when I knew only how to write a little HTML/CSS.
+
+This website aims to offer a clean showcase of the professional that I am by presenting both my background but also my main projects.
+
+T...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Bépo-layout</title>
+    <link href="http://localhost:4000/posts/B%C3%A9po-layout/" rel="alternate" type="text/html" title="Bépo-layout" />
+    <published>2019-08-08T08:10:00+02:00</published>
+  
+    <updated>2019-08-08T08:10:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/B%C3%A9po-layout/</id>
+    <content src="http://localhost:4000/posts/B%C3%A9po-layout/" />
+    <author>
+      <name>Constantin Hentgen</name>
+    </author>
+
+  
+    
+    <category term="Project" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      [
+
+Objective
+
+Following my first experiences in typing, I wanted to develop a program to analyze the frequencies of letters and characters in order to generate an optimal configuration according to the inputs. At present, this program allows to compare up to 3 text sources and to produce a pdf report.
+
+Below are excerpts from a report comparing text sources of different languages.
+
+![](https://...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
