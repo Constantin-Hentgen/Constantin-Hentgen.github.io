@@ -1,8 +1,8 @@
 ---
 title: Portfolio
 author: Constantin Hentgen
-date: 2019-08-08 14:10:00 +0800
-categories: [Project]
+date: 2022-02-28 12:00:00 +0100
+categories: [Personal Project]
 tags: [Website, Portfolio]
 render_with_liquid: false
 ---
