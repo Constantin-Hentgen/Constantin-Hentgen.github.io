@@ -3,7 +3,7 @@ title: Prime-Explo
 author: Constantin Hentgen
 date: 2022-02-26 12:00:00 +0100
 categories: [Personal Project]
-tags: [Python, Statistics]
+tags: [Python, Statistics, Mathematics]
 render_with_liquid: false
 ---
 
