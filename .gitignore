@@ -17,6 +17,7 @@ package-lock.json
 # IDE configurations
 .idea
 .vscode
+Constantin-Hentgen.github.io.code-workspace
 
 # Misc
 assets/js/dist

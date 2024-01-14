@@ -1,13 +1,11 @@
 ---
-title: Bépo-layout
+title: Text-Parser
 author: Constantin Hentgen
-date: 2019-08-08 14:10:00 +0800
-categories: [Project]
-tags: [Linux, Keyboard, Statistics]
+date: 2021-03-01 12:00:00 +0100
+categories: [Personal Project]
+tags: [writing]
 render_with_liquid: false
 ---
-
-[
 
 # Objective
 
@@ -15,15 +13,14 @@ Following my first experiences in typing, I wanted to develop a program to analy
 
 Below are excerpts from a report comparing text sources of different languages.
 
-!\[\](https://user-images.githubusercontent.com/48366000/224126966-b4580f54-669c-4bcf-a34a-cec491cdec4c.png)
+![](https://user-images.githubusercontent.com/48366000/224126966-b4580f54-669c-4bcf-a34a-cec491cdec4c.png)
 
 The program performs a frequency analysis on the characters common to the different sources, averages the results and then classifies the results by language according to the calculated averages.
 The interest of knowing the frequencies of appearance of the letters is to be able to position a letter in a keyboard configuration afterwards. Indeed, the objective is to distribute the typing load as well as possible between the 2 hands and also to "load" preferably fast and powerful fingers such as the index or middle finger rather than the little finger.
-!\[\](https://user-images.githubusercontent.com/48366000/224127015-9b66307e-e4bd-46f8-88b0-da6defe3024b.png)
+![](https://user-images.githubusercontent.com/48366000/224127015-9b66307e-e4bd-46f8-88b0-da6defe3024b.png)
 
 From a typing point of view, we notice in the graph above that German would seem to be largely in majority in use on the letter "e". From a linguistic point of view, we can notice that French doesn't use the letter "h" much compared to English and German (which should be explained by their proximity of roots).
 
 # Feedback
 
 I had a lot of fun developing this program, I was able to see and contribute to the foundations that lead to optimized keyboards. I also found it rather playful with the linguistic aspect that I particularly like.
-](0000-00-00-Text-Parser.md)
