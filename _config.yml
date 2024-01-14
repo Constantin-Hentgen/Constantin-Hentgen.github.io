@@ -16,7 +16,7 @@ timezone:
 
 title: Constantin Hentgen # the main title
 
-tagline: Hi there 👋, Welcome to my blog where you will find all my projects 🧑‍💻🔐 test test test # it will display as the sub-title
+tagline: Hi there 👋, Welcome to my blog where you will find all my projects 🧑‍💻🔐 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Constantin’s blog, where you can find my projects and various achievements.
