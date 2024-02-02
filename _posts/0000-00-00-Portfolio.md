@@ -3,7 +3,7 @@ title: Portfolio
 author: Constantin Hentgen
 date: 2022-02-28 12:00:00 +0100
 categories: [Personal Project]
-tags: [Website, Portfolio, Javascript]
+tags: [Website, Portfolio, Javascript, Front-End]
 render_with_liquid: false
 ---
 
