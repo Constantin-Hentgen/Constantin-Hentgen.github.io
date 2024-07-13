@@ -69,9 +69,9 @@ cd Ctrl_Alt_Discuss
 poetry run python -i src/main.py
 ```
 
-## Resources
+## References
 
-- OpenAI GPT-3.5-turbo: https://platform.openai.com/
-- OpenAI TTS: https://platform.openai.com/docs/guides/text-to-speech
-- Eleven Labs AI TTS: https://www.eleven-labs.ai/text-to-speech
-- Poetry: https://python-poetry.org/docs/
+- [OpenAI GPT-3.5-turbo](https://platform.openai.com/)
+- [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech)
+- [Eleven Labs AI TTS](https://www.eleven-labs.ai/text-to-speech)
+- [Poetry](https://python-poetry.org/docs/)

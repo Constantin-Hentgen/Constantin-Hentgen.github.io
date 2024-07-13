@@ -7,23 +7,65 @@ tags: [linux, keyboard layout, statistics]
 render_with_liquid: false
 ---
 
-[
+# Typing Frequency Analysis Program
 
-# Objective
+## Objective
 
-Following my first experiences in typing, I wanted to develop a program to analyze the frequencies of letters and characters in order to generate an optimal configuration according to the inputs. At present, this program allows to compare up to 3 text sources and to produce a pdf report.
+Building on my initial experiences with typing, I developed a program to analyze the frequencies of letters and characters in various texts. The goal is to generate an optimal keyboard configuration based on these frequencies. The program can compare up to three text sources and produce a detailed PDF report.
 
-Below are excerpts from a report comparing text sources of different languages.
+The frequency analysis examines characters common across different sources, averages the results, and classifies them by language based on these averages. This analysis aids in designing keyboard layouts by optimizing the distribution of typing load between hands and prioritizing faster, more powerful fingers.
 
-!\[\](https://user-images.githubusercontent.com/48366000/224126966-b4580f54-669c-4bcf-a34a-cec491cdec4c.png)
+Here are excerpts from a report comparing text sources in different languages:
 
-The program performs a frequency analysis on the characters common to the different sources, averages the results and then classifies the results by language according to the calculated averages.
-The interest of knowing the frequencies of appearance of the letters is to be able to position a letter in a keyboard configuration afterwards. Indeed, the objective is to distribute the typing load as well as possible between the 2 hands and also to "load" preferably fast and powerful fingers such as the index or middle finger rather than the little finger.
-!\[\](https://user-images.githubusercontent.com/48366000/224127015-9b66307e-e4bd-46f8-88b0-da6defe3024b.png)
+![Frequency Analysis Report](https://user-images.githubusercontent.com/48366000/224126966-b4580f54-669c-4bcf-a34a-cec491cdec4c.png)
 
-From a typing point of view, we notice in the graph above that German would seem to be largely in majority in use on the letter "e". From a linguistic point of view, we can notice that French doesn't use the letter "h" much compared to English and German (which should be explained by their proximity of roots).
+The program calculates the frequency of letter appearances and helps determine the optimal positioning of letters on a keyboard. This allows for better distribution of typing effort and reduces strain by assigning letters to fingers based on their speed and strength.
 
-# Feedback
+For example, the graph above shows that the letter "e" is heavily used in German compared to French, which uses it less. Additionally, French uses the letter "h" less frequently than English and German, reflecting linguistic variations.
 
-I had a lot of fun developing this program, I was able to see and contribute to the foundations that lead to optimized keyboards. I also found it rather playful with the linguistic aspect that I particularly like.
-](0000-00-00-Text-Parser.md)
+![Frequency Analysis Comparison](https://user-images.githubusercontent.com/48366000/224127015-9b66307e-e4bd-46f8-88b0-da6defe3024b.png)
+
+## Feedback
+
+Developing this program has been both enjoyable and enlightening. It provided insights into the principles behind optimized keyboard layouts and offered a playful exploration of linguistic patterns. I enjoyed seeing how theoretical concepts could be applied practically to improve typing efficiency.
+
+## Technologies Used
+
+The development of this program involved several technologies and libraries:
+
+- **Python3**: The primary language used for implementing the program's logic and analysis.
+
+  - _Source:_ [Python Official Website](https://www.python.org/)
+
+- **Pandas**: A library for data manipulation and analysis, used to handle and process text data.
+
+  - _Source:_ [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
+- **Matplotlib**: A plotting library for creating visual representations of the frequency data.
+
+  - _Source:_ [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+- **ReportLab**: A library for generating PDF reports from Python.
+  - _Source:_ [ReportLab Documentation](https://www.reportlab.com/docs/reportlab-userguide.pdf)
+
+## Project Repository
+
+For more information on the implementation, access the source code, and explore the project, visit the GitHub repository:
+
+- [Typing Frequency Analysis GitHub Repository](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis/blob/main/LICENSE) file for more details.
+
+---
+
+_Note: This post is written in Markdown, a lightweight markup language with plain text formatting syntax. Markdown allows you to create formatted text using a plain text editor._
+
+## References
+
+- [Python Official Website](https://www.python.org/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [ReportLab Documentation](https://www.reportlab.com/docs/reportlab-userguide.pdf)
+- [Typing Frequency Analysis GitHub Repository](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis)

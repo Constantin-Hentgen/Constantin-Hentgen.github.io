@@ -7,20 +7,59 @@ tags: [python, languages, statistics]
 render_with_liquid: false
 ---
 
-# Objective
+# Typing Frequency Analysis Program
 
-Following my first experiences in typing, I wanted to develop a program to analyze the frequencies of letters and characters in order to generate an optimal configuration according to the inputs. At present, this program allows to compare up to 3 text sources and to produce a pdf report.
+## Objective
 
-Below are excerpts from a report comparing text sources of different languages.
+Building on my initial experiences with typing, I developed a program to analyze the frequencies of letters and characters in various texts to generate an optimal keyboard configuration. This tool allows for the comparison of up to three text sources and produces a detailed PDF report.
+
+The program performs frequency analysis on characters common to the different sources, averages the results, and classifies them by language based on these averages. This analysis helps in designing keyboard layouts that balance typing loads between hands and prioritize faster, more powerful fingers over weaker ones.
+
+Here are some excerpts from a report comparing text sources in different languages:
 
 ![](https://user-images.githubusercontent.com/48366000/224126966-b4580f54-669c-4bcf-a34a-cec491cdec4c.png)
 
-The program performs a frequency analysis on the characters common to the different sources, averages the results and then classifies the results by language according to the calculated averages.
-The interest of knowing the frequencies of appearance of the letters is to be able to position a letter in a keyboard configuration afterwards. Indeed, the objective is to distribute the typing load as well as possible between the 2 hands and also to "load" preferably fast and powerful fingers such as the index or middle finger rather than the little finger.
-![](https://user-images.githubusercontent.com/48366000/224127015-9b66307e-e4bd-46f8-88b0-da6defe3024b.png)
+The program calculates the frequency of character usage and visualizes the results, helping to position letters on the keyboard in a way that enhances typing efficiency. For example, the graph shows that the letter "e" is heavily used in German compared to French, which uses it less frequently. Additionally, the letter "h" is used less in French than in English and German, reflecting linguistic differences.
 
-From a typing point of view, we notice in the graph above that German would seem to be largely in majority in use on the letter "e". From a linguistic point of view, we can notice that French doesn't use the letter "h" much compared to English and German (which should be explained by their proximity of roots).
+## Feedback
 
-# Feedback
+Developing this program has been both enjoyable and educational. It allowed me to explore the principles behind optimized keyboard layouts and provided a playful exploration of linguistic data. The project reinforced my programming skills and deepened my appreciation for the intersection of language and technology in improving typing efficiency.
 
-I had a lot of fun developing this program, I was able to see and contribute to the foundations that lead to optimized keyboards. I also found it rather playful with the linguistic aspect that I particularly like.
+## Technologies Used
+
+The development of this program involved several key technologies and libraries:
+
+- **Python3**: The main programming language used for data analysis and report generation.
+
+  - _Source:_ [Python Official Website](https://www.python.org/)
+
+- **Pandas**: A library for data manipulation and analysis, used to process and analyze text data.
+
+  - _Source:_ [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
+- **Matplotlib**: A plotting library used to create visual representations of frequency data and comparisons.
+
+  - _Source:_ [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+- **ReportLab**: A library for generating PDF documents from Python, used to produce the final reports.
+  - _Source:_ [ReportLab Documentation](https://www.reportlab.com/docs/reportlab-userguide.pdf)
+
+## Project Repository
+
+For more details on the implementation, access the source code, and explore the project, visit the GitHub repository:
+
+- [Typing Frequency Analysis GitHub Repository](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis/blob/main/LICENSE) file for more information.
+
+---
+
+## References
+
+- [Python Official Website](https://www.python.org/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [ReportLab Documentation](https://www.reportlab.com/docs/reportlab-userguide.pdf)
+- [Typing Frequency Analysis GitHub Repository](https://github.com/Constantin-Hentgen/Typing-Frequency-Analysis)
