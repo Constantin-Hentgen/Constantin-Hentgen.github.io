@@ -2,8 +2,8 @@
 title: Portfolio
 author: Constantin Hentgen
 date: 2022-02-28 12:00:00 +0100
-categories: [Personal Project]
-tags: [Website, Portfolio, Javascript, Front-End]
+categories: [Personal project]
+tags: [web, portfolio, javascript, vue.js, front-end]
 render_with_liquid: false
 ---
 
@@ -20,3 +20,5 @@ This website aims to offer a clean showcase of the professional that I am by pre
 - TailwindCSS\*\*
 - **Marked**
 - **Fontawesome**
+
+https://github.com/Constantin-Hentgen/Portfolio

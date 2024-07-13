@@ -2,8 +2,8 @@
 title: Citadelles
 author: Constantin Hentgen
 date: 2021-11-15 12:00:00 +0100
-categories: [School project]
-tags: [Java, OOP, game]
+categories: [Academic project]
+tags: [java, oop, game, team work]
 render_with_liquid: false
 ---
 
