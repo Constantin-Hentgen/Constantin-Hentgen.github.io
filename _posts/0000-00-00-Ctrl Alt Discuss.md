@@ -2,8 +2,8 @@
 title: Ctrl Alt Discuss
 author: Constantin Hentgen
 date: 2023-11-28 12:00:00 +0100
-categories: [Personal Project]
-tags: [Podcast, Spotify, IT security, Python, LLM, TTS]
+categories: [Personal project]
+tags: [podcast, spotify, cybersecurity, python, openai, chatgpt]
 render_with_liquid: false
 ---
 

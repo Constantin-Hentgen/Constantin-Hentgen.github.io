@@ -2,8 +2,8 @@
 title: Text-Parser
 author: Constantin Hentgen
 date: 2021-03-01 12:00:00 +0100
-categories: [Personal Project]
-tags: [Python, Languages, Statistics]
+categories: [Personal project]
+tags: [python, languages, statistics]
 render_with_liquid: false
 ---
 
