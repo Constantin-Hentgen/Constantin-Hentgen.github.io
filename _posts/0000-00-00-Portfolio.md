@@ -7,18 +7,54 @@ tags: [web, portfolio, javascript, vue.js, front-end]
 render_with_liquid: false
 ---
 
-# Context
+# My Professional Portfolio Website
 
-Web development is what made me start and love computer science, that's why creating my own website was inevitable. It was the opportunity for me to realize what I knew how to do best after a few years when I knew only how to write a little HTML/CSS.
+## Context
 
-This website aims to offer a clean showcase of the professional that I am by presenting both my background but also my main projects.
+Web development is the spark that ignited my passion for computer science. My journey began with simple HTML and CSS, but it quickly evolved into a deeper interest in creating more sophisticated web applications. Building my own website was a natural progression—a way to apply and showcase what I have learned over the years.
 
-# Technologies
+This website serves as a clean and professional representation of who I am. It highlights my background, skills, and key projects, providing a comprehensive view of my work and expertise.
 
-- VueJs\*\*
-- i18n\*\*
-- TailwindCSS\*\*
-- **Marked**
-- **Fontawesome**
+## Technologies Used
 
-https://github.com/Constantin-Hentgen/Portfolio
+To create a modern and functional portfolio website, I utilized several advanced technologies:
+
+- **Vue.js**: A progressive JavaScript framework that facilitates the development of interactive user interfaces. Vue.js enables the creation of dynamic components and ensures a responsive and engaging experience for users.
+
+  - _Source:_ [Vue.js Official Website](https://vuejs.org/)
+
+- **i18n**: An internationalization (i18n) plugin for Vue.js that allows the website to support multiple languages. This feature makes the portfolio accessible to a global audience and reflects my commitment to inclusivity.
+
+  - _Source:_ [Vue I18n Documentation](https://vue-i18n.intlify.dev/)
+
+- **TailwindCSS**: A utility-first CSS framework used to design and style the website. TailwindCSS provides a flexible and customizable approach to building responsive layouts and modern aesthetics.
+
+  - _Source:_ [TailwindCSS Official Website](https://tailwindcss.com/)
+
+- **Marked**: A markdown parser that converts markdown files into HTML. This tool helps manage and display content efficiently, ensuring that textual information is well-structured and readable.
+
+  - _Source:_ [Marked GitHub Repository](https://github.com/markedjs/marked)
+
+- **Font Awesome**: A popular library of vector icons and social logos. Font Awesome enhances the visual appeal of the website by providing scalable icons that are easy to integrate and customize.
+  - _Source:_ [Font Awesome Official Website](https://fontawesome.com/)
+
+## Project Repository
+
+For more details on the development process, access the source code, and explore the project, visit the GitHub repository:
+
+- [Portfolio GitHub Repository](https://github.com/Constantin-Hentgen/Portfolio)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/Portfolio/blob/main/LICENSE) file for more information.
+
+---
+
+## References
+
+- [Vue.js Official Website](https://vuejs.org/)
+- [Vue I18n Documentation](https://vue-i18n.intlify.dev/)
+- [TailwindCSS Official Website](https://tailwindcss.com/)
+- [Marked GitHub Repository](https://github.com/markedjs/marked)
+- [Font Awesome Official Website](https://fontawesome.com/)
+- [Portfolio GitHub Repository](https://github.com/Constantin-Hentgen/Portfolio)
