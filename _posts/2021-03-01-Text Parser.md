@@ -1,8 +1,8 @@
 ---
 title: Text-Parser
 date: 2021-03-01 12:00:00 +0100
-categories: [Personal project]
-tags: [python, languages, statistics]
+categories: [Personal project, Statistics]
+tags: [python, languages]
 render_with_liquid: false
 pin: false
 math: false

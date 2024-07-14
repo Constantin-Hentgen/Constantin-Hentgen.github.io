@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 date: 2022-02-28 12:00:00 +0100
-categories: [Personal project]
+categories: [Personal project, Web Development]
 tags: [web, portfolio, javascript, vue.js, front-end]
 render_with_liquid: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: XKB Bépo Constantin
 date: 2021-03-04 12:00:00 +0100
-categories: [Personal project]
-tags: [linux, keyboard layout, statistics]
+categories: [Personal project, Setup]
+tags: [linux, keyboard layout]
 render_with_liquid: false
 ---
 
