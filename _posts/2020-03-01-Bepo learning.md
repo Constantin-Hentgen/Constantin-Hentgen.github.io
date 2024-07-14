@@ -1,15 +1,14 @@
 ---
 title: BÉPO learning
-description: test
+description: My learning of an ergonomic keyboard configuration.
 date: 2020-03-01 12:00:00 +0100
-categories: [Personal development]
+categories: [Personal development, Ergonomy]
 tags: [keyboard layout, languages, optimization]
 pin: false
-math: false
-mermaid: true
 ---
 
-# My Experience Learning BÉPO: An Optimized Keyboard Layout
+> I don’t advise you to dive in this kind of experience as it requires tons of hours of training for a very substantial gain. It took me around 10 months to reach my previous typing speed and comfort, around 2 years to be significantly faster.
+{: .prompt-warning }
 
 ## Introduction
 
@@ -19,6 +18,13 @@ As a typist looking for ways to improve my typing efficiency and comfort, I rece
 
 BÉPO is a keyboard layout specifically created to maximize typing efficiency and reduce strain for French typists. It is based on ergonomic principles and frequency analysis of the French language, ensuring that the most common letters and bigrams are easily accessible. This layout is recognized by the French national organization for standardization, AFNOR, under the NF Z71-300 standard.
 
+
+> If you’re main language is French like me, then you should take a look to the [Éwopy layout](https://hal.science/hal-01558613/document) [colemak layout](https://colemak.com/).
+{: .prompt-tip }
+
+> If you’re main language is English, then you should take a look to the [Dvorak layout](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) or the [Colemak layout](https://colemak.com/).
+{: .prompt-tip }
+
 ## Resources for Learning BÉPO
 
 ### Official BÉPO Website
@@ -27,7 +33,7 @@ The [official BÉPO website](https://bepo.fr/wiki/Accueil) is an invaluable reso
 
 ### AFNOR
 
-AFNOR (Association Française de Normalisation) provides the official standards for various technical and industrial practices in France, including keyboard layouts. You can find more about the NF Z71-300 standard on their [website](https://www.afnor.org/).
+AFNOR (Association Française de Normalisation) provides the official standards for various technical and industrial practices in France, including keyboard layouts. You can find more about the NF Z71-300 standard on their [website](https://www.afnor.org/). The BÉPO layout is actually one of the two recognized standard french keyboard layouts.
 
 ### KTouch ![Desktop View](/ktouch.webp){: width="972" height="589" .w-50 .right}
 
@@ -45,11 +51,17 @@ AFNOR (Association Française de Normalisation) provides the official standards 
 
 ### Initial Setup
 
-The first step in my journey was to set up my keyboard to use the BÉPO layout. I downloaded the necessary drivers from the BÉPO website and installed them on my computer. I also printed out a BÉPO layout map to help me get accustomed to the new key positions.
+The first step in my journey was to set up my keyboard to use the BÉPO layout. As I was using [Fedora Linux](https://fedoraproject.org/) at this time, I could switch on the BÉPO AFNOR layout natively. 
+
+> In case you are using Windows as operating system, you can try the portable version (or even install permanently) the BÉPO layout thanks to [this installer](https://bepo.fr/wiki/Portable_Keyboard_Layout)
+{: .prompt-info }
+
+
+I downloaded the necessary drivers from the BÉPO website and installed them on my computer. I also printed out a BÉPO layout map to help me get accustomed to the new key positions.
 
 ### Practice Routine
 
-Using KTouch, I began with basic lessons to familiarize myself with the new layout. The structured approach of KTouch was incredibly helpful in the initial stages. Once I was comfortable with the basics, I switched to Monkeytype and 10FastFingers to test my speed and accuracy.
+Using KTouch, I began with basic lessons to familiarize myself with the new layout. The structured approach of KTouch was incredibly helpful in the initial stages. Once I was comfortable with the basics, I switched to [Monkeytype](https://monkeytype.com/) and [10FastFingers](https://10fastfingers.com/) to test my speed and accuracy. During all this learning phase, there was no coming back: I was using only BÉPO on my personal machine. The only situation where I could escape BÉPO was when I had to use a PC from the University. This discipline definitely helped me to reach a comfort feeling quicker.
 
 ### Progress and Challenges
 
@@ -59,24 +71,8 @@ Initially, my typing speed was significantly slower, and I made frequent mistake
 
 Learning the BÉPO layout has been a rewarding experience. While it required a considerable investment of time and effort, the benefits in terms of typing efficiency and comfort were well worth it. I highly recommend exploring BÉPO to anyone looking to optimize their typing experience, especially for French typists.
 
-For more information, check out the resources mentioned below, and happy typing!
-
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-
-> An example showing the `tip` type prompt.
-> {: .prompt-tip }
-
-> An example showing the `info` type prompt.
-> {: .prompt-info }
-
-> An example showing the `warning` type prompt.
-> {: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-> {: .prompt-danger }
-
-<!-- markdownlint-restore -->
+> For more information, check out the resources mentioned below, and happy typing!
+{: .prompt-tip }
 
 ---
 

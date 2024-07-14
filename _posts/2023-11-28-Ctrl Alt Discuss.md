@@ -6,7 +6,6 @@ tags: [podcast, spotify, cybersecurity, python, openai, chatgpt]
 render_with_liquid: false
 pin: true
 math: false
-mermaid: false
 image:
   path: /micro.webp
   alt: Responsive rendering of Chirpy theme on multiple devices.
