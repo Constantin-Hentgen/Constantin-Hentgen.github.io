@@ -1,6 +1,5 @@
 ---
 title: XKB Bépo Constantin
-author: Constantin Hentgen
 date: 2021-03-04 12:00:00 +0100
 categories: [Personal project]
 tags: [linux, keyboard layout, statistics]

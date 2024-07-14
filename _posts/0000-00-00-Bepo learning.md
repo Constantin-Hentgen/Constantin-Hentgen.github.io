@@ -1,10 +1,12 @@
 ---
 title: BÉPO learning
-author: Constantin Hentgen
+description: test
 date: 2020-03-01 12:00:00 +0100
 categories: [Personal development]
 tags: [keyboard layout, languages, optimization]
-render_with_liquid: false
+pin: false
+math: false
+mermaid: true
 ---
 
 # My Experience Learning BÉPO: An Optimized Keyboard Layout
@@ -27,7 +29,7 @@ The [official BÉPO website](https://bepo.fr/wiki/Accueil) is an invaluable reso
 
 AFNOR (Association Française de Normalisation) provides the official standards for various technical and industrial practices in France, including keyboard layouts. You can find more about the NF Z71-300 standard on their [website](https://www.afnor.org/).
 
-### KTouch
+### KTouch ![Desktop View](/ktouch.webp){: width="972" height="589" .w-50 .right}
 
 [KTouch](https://apps.kde.org/ktouch/) is an excellent typing tutor program that supports the BÉPO layout. It provides structured lessons and real-time feedback to help you improve your typing speed and accuracy.
 
@@ -57,7 +59,24 @@ Initially, my typing speed was significantly slower, and I made frequent mistake
 
 Learning the BÉPO layout has been a rewarding experience. While it required a considerable investment of time and effort, the benefits in terms of typing efficiency and comfort were well worth it. I highly recommend exploring BÉPO to anyone looking to optimize their typing experience, especially for French typists.
 
-For more information, check out the resources mentioned above, and happy typing!
+For more information, check out the resources mentioned below, and happy typing!
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+
+> An example showing the `tip` type prompt.
+> {: .prompt-tip }
+
+> An example showing the `info` type prompt.
+> {: .prompt-info }
+
+> An example showing the `warning` type prompt.
+> {: .prompt-warning }
+
+> An example showing the `danger` type prompt.
+> {: .prompt-danger }
+
+<!-- markdownlint-restore -->
 
 ---
 
