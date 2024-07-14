@@ -1,10 +1,16 @@
 ---
 title: Le Pouvoir du Vote
-author: Constantin Hentgen
+description: Uni project
 date: 2021-05-17 12:00:00 +0100
 categories: [Academic project]
 tags: [python, languages, statistics]
 render_with_liquid: false
+pin: false
+math: false
+mermaid: false
+image:
+  path: /assemblee_nationale.webp
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 # The Power of the Vote

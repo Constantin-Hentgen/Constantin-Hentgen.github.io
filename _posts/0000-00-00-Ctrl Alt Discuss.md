@@ -1,10 +1,15 @@
 ---
 title: Ctrl Alt Discuss
-author: Constantin Hentgen
 date: 2023-11-28 12:00:00 +0100
 categories: [Personal project]
 tags: [podcast, spotify, cybersecurity, python, openai, chatgpt]
 render_with_liquid: false
+pin: true
+math: false
+mermaid: false
+image:
+  path: /micro.webp
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 Welcome to the Ctrl+Alt+Discuss project! This project combines the powerful capabilities of OpenAI, Eleven Labs AI, and RSS feed aggregation to automatically create podcasts. The core of this solution relies on the GPT-3.5-turbo language model from OpenAI to generate podcast scripts, complemented by Eleven Labs' Text-to-Speech (TTS) to bring these scripts to life.

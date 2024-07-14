@@ -1,6 +1,5 @@
 ---
 title: constantin-hentgen.github.io
-author: Constantin Hentgen
 date: 2024-01-12 12:00:00 +0100
 categories: [Personal project]
 tags: [web, portfolio, javascript, front-end, jekyll]
