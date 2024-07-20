@@ -51,12 +51,14 @@ ChatGPT, developed by OpenAI, is a powerful language model capable of understand
 
 The first step was setting up the development environment. I created a new project repository on GitHub and set up the necessary tools and dependencies for Chrome extension development and AI integration.
 
+## Chrome Extension Development
+
 # Challenges and Solutions
 
-Understanding AI
+## Understanding AI
 Integrating AI into the project required a deep understanding of how language models work. Reading research papers and following AI-related blogs helped bridge the knowledge gap.
 
-# API Limitations
+## API Limitations
 
 Using the OpenAI API comes with limitations, such as rate limits and token constraints. Efficiently managing API requests and handling errors gracefully was essential for the smooth functioning of the extension.
 
