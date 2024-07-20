@@ -3,7 +3,7 @@ title: Le Pouvoir du Vote
 description: Uni project
 date: 2021-05-17 12:00:00 +0100
 categories: [Academic project, Web Development]
-tags: [python, languages, statistics]
+tags: [python, statistics]
 render_with_liquid: false
 pin: false
 math: false

@@ -2,7 +2,7 @@
 title: constantin-hentgen.github.io
 date: 2024-01-12 12:00:00 +0100
 categories: [Personal project, Web Development]
-tags: [web, portfolio, javascript, front-end, jekyll]
+tags: [web]
 render_with_liquid: false
 image:
   path: /web-development.webp

@@ -2,7 +2,7 @@
 title: Calcul Mental
 date: 2021-06-29 12:00:00 +0100
 categories: [Personal project, Web Development]
-tags: [web, mathematics, php, education]
+tags: [web, math, php]
 render_with_liquid: false
 image:
   path: /brain.webp

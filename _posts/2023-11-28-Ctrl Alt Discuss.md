@@ -2,7 +2,7 @@
 title: Ctrl Alt Discuss
 date: 2023-11-28 12:00:00 +0100
 categories: [Personal project]
-tags: [podcast, spotify, cybersecurity, python, openai, chatgpt]
+tags: [cybersecurity, python, ai]
 pin: true
 image:
   path: /micro.webp
