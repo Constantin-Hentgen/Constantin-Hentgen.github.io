@@ -2,12 +2,26 @@
 title: Ctrl Alt Discuss
 date: 2023-11-28 12:00:00 +0100
 categories: [Personal project]
-tags: [cybersecurity, python, ai]
+tags: [cybersecurity, python, artificial intelligence]
 pin: true
 image:
   path: /micro.webp
+  lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAABQCwCdASoyACEAPslUoEunpKMhsBqtUPAZCWYAxRFBUx5yEv34GXqpM9/5IzmRxDnNRartDKX6hP/cIdvzKoxvOE3+7yysprxuSevp48yDxIJNGlbFkGbacoCGOKh5meS3KlAA/onMWGL28zSmadfMWbRuJF4XB8a5PuruGYtCz0RI8CYUB2HbstM15bRYNrEUxxDWwyHd5C/6FOm2TuNuTcg+c+dBmqFldekEe2X9uR1RmdyqJJ773BCNeBvvTpDRG3HyUpdnu1YNwUyp592XRPxYphrDXm4uRTyJ7Z9JS3U54EayjQMjpJCGv/PbRmPc+54RNYGFWMi5HTfEb+13ksEp69L4L+f4k0YYZ2CNk3NsZBBuZ+eIO5r0e5Eor3vMEEjJwYz5+99vflVFR96XEELELCtBWgEt0Ehdie6/0Q6akLzI1OW9+ir97sbf1MvhW8ByFDSfdAgNm3SnKFeQS4wKNhy71fT2UVJQti3xuVIwCNG6M9r+kWdeJroH6orM4tb0cm2hjPszIiYpX85wJsySPEuewL+Oap3ugwOtHxERawhdLFT6u8lSrjrCUnwZKbDAi3OrcImM8RKDwHzIBu3p6Fq0ZVCW9fwUxEt6/gk5o5xY8uDBv4AAAAAA
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+# Table of Contents
+
+1. [Objective](#objective)
+2. [Features](#features)
+   - [RSS Feed Aggregation](#rss-feed-aggregation)
+   - [Script Generation with GPT-3.5-turbo](#script-generation-with-gpt-35-turbo)
+   - [Text-to-Speech with Eleven Labs](#text-to-speech-with-eleven-labs)
+3. [Configuration](#configuration)
+   - [Installing Dependencies](#installing-dependencies)
+   - [Setting Environment Variables](#setting-environment-variables)
+   - [Running the Project](#running-the-project)
+4. [References](#references)
 
 Welcome to the Ctrl+Alt+Discuss project! This project combines the powerful capabilities of OpenAI, Eleven Labs AI, and RSS feed aggregation to automatically create podcasts. The core of this solution relies on the GPT-3.5-turbo language model from OpenAI to generate podcast scripts, complemented by Eleven Labs' Text-to-Speech (TTS) to bring these scripts to life.
 

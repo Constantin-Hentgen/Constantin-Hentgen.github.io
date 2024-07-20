@@ -6,6 +6,7 @@ tags: [linux, keyboard layout, languages, optimization]
 pin: false
 image:
   path: /debian.webp
+  lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAADwCgCdASoyACEAPjEWikMiISEUDVVUIAMEtIBjpa/m5W3o+AH9yzAGqN0QDTLeQv/pcoj/t94ALc1KnelGkOUvFCVKCrou1lm/DvqIe9cJrGy8c3d4uoAXYcV0xum6NQAA/v/retgsVw+iGIWsadF7SOXLHphM5JSt7PKLXBWbf34uWrH/hmm+nTwalLedpMYEEbfqaux2zZYXi/O6FK/me0873sbo9jojesO2r3+t9Syu78LScytNPMeMAv8+ABZPs/688QYjfuK0Mq6zoO2r8YWbf/JLtfjeqsGiVsWlicm1jfBkquJnTXKeeWek7AG5QyeHk2Z0EecVDQw/8iGyk1NF8HGkeHE4K7lXm6A4HEzc93ZExwRxlPAYF37qNMmzHoA5xGX/QyecH5zP1TzPx/m6i8T4fJq36I37A0YMFNgJtjCPRAyK5IjB2K0+/2dd4LYoxq9n7bz7mz/8cs4wG9+MOLP5Gy+j54UkQ4O72EMWhxFw7IOmUfsbFQ6LtJr4kX3cat03fDC70r692LF4AAA=
   alt: A computer screen displaying a debian configuration.
 ---
 # xkb_fr-BÉPO

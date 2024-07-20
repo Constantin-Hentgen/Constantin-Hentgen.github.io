@@ -6,10 +6,17 @@ tags: [web, javascript]
 render_with_liquid: false
 image:
   path: /laptop.webp
+  lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAACwCgCdASoyACEAPu1wsFOppiSioqrpMB2JYwDBxCw4WK+6BHVNd42F7mqypdPw/NhwHjtYH9iJ7tp9iNW/RwZr8fpTohCrY6a66t1HPJ6q5W8G9/R6DphH2EB8rPAAAP7wfGTAwaIcOE+mHaS8Pceqd4WOTWy4r/NTkO1l0u7YfjNxodPZe9kMSC6HzPy0GJWD/+NXo+Ao18bXPMsceDOOpq74qV1r6DwfvR+B5TI5ZQBmTbPOmMucQ2kGGK6mQIA18c1d7BcJ7dPtObo7dusbVjVZrEn0Af+hCvdexyknry5A0xWv4EDtf+7PoVO+fdwUpsd+DiMa2Wfb6EdKOh36c8rXuTM1sbhC90Wo3lXMbFOaOMIRk8SCbMPy8Ts2RScP2xIp9HScVzakTMsWBUTFhacN0BQ/fLk4/aGWo2m4Vsv7waAbuagmqTSDhhVZqe7paeeLso7zvTO/25T1v4f8BO+irawY1cggBjT1o/R4aM9ELXBK/bplYuO1fRsO98V2tsHxJeKxODACfNpSaPXgxgyKGIkYLqUr9oPRA/yXcDFEGskgO134eUEZ1gkKg2OzyROsBP07SxDWXIA1++B7qCrO7k3uNKmqj+VleK2iIpLHRPxgNjDj1xQL6IAA
   alt: A man is typing on a laptop.
 ---
 
-# My Professional Portfolio Website
+# Table of Contents
+
+1. [Context](#context)
+2. [Technologies Used](#technologies-used)
+3. [Project Repository](#project-repository)
+4. [License](#license)
+5. [References](#references)
 
 ## Context
 

@@ -6,10 +6,24 @@ tags: [web]
 render_with_liquid: false
 image:
   path: /web-development.webp
+  lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAABQCQCdASoyACEAPm0mkEWkIaGaqwYAQAbEs4BjmtyYzc4VAf7pXqCg6TDb61AYybJBjy6CztWKvY6WdaRTJ5lgEYIxkiqpA3VTjvK5V4lfwbwwAAD+/v2cx9G0skhIoqtT005d09sIiky2UnvfUEk3ZMyOaBluaoOP2L9kIyYiKAgMG+Vq1GRUVqyud8xUXV6zYGSLnPvUiAZmFqDWGLXr6NokdILWulRNWb7zqOwBObK9AwkIxuZWe6ZixuXpS+bQiNuHzohYNP4aY6ZCY9SQ6eVShzE15xUGO2AnRGs269SZ5Rf+qWEQ2CUS9uZsasq5Bj35j/AJEeC8aj2VGywRMTuN5phgNSiu/XRzHS/YRtzzCFpacnz3Op2PvVUnARpqYgG2IR91Y4KKC03C1dRIWQAvmQjhuq+YWY1s7UIHBk1TVJNi6OATr9aaMRooLt3eBXBMMkuQsCPxLQO121DJ8Kv1iM12AcTIRTcNjXofANHUdWKt7YBXU054fsOcXJ7FISaGddruHX1GSR9/OReTt8MEVA8mlcxMeFbzwD4FhF8vmjXgAAAA
   alt: A laptop displaying code.
 ---
 
-# Developing a Long-Term Portfolio with Jekyll and Chirpy Theme
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Why a Personal Portfolio?](#why-a-personal-portfolio)
+3. [Exploring Web Technologies](#exploring-web-technologies)
+4. [Choosing Jekyll and Chirpy Theme](#choosing-jekyll-and-chirpy-theme)
+   - [Why Jekyll?](#why-jekyll)
+   - [Why Chirpy Theme?](#why-chirpy-theme)
+5. [Tuning the Portfolio](#tuning-the-portfolio)
+   - [Content Updates](#content-updates)
+   - [Design Customizations](#design-customizations)
+6. [Credits](#credits)
+7. [Conclusion](#conclusion)
+8. [References](#references)
 
 ## Introduction
 

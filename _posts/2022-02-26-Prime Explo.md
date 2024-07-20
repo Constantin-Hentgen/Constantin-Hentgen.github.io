@@ -6,10 +6,25 @@ tags: [python, math]
 render_with_liquid: false
 image:
   path: /speedometer.webp
+  lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAAAwCQCdASoyACQAPjEWiEMiISEWqzUkIAMEtIBntHj5gf3AS4BwlvKkmJfQAH/AFko0uHcRoyfFxcs7iyarXLAK07HuhAUKny1qd0s9mEkjdK9AAP7/8Pl3VjX86hm3tNGntuqjtmGlDIkYfIVCPNZw2Xp+AUtYsbt8zixxk5vhbmdFZ2QfzlG+Vn/+F58Y9OX2m+wWstVAqVDGsRpnuEKrQsY4FzoYaYkl6tXV+Ch3pbqsW9QvZA5+pDu/pnxPBKNz+RM4j6rnwta4fIHXCn3+hXre+5/35JAYiMjD86r16fxXSoYHSVzGG0A+JPUSrr7Hgj9Mr1MmKbxFhM2Ts8ME/NVOdcPc38DH+fJfS10Lcae3Yfj+0T0jOHTEX8qKcC3uKN9bdDPWATdetv+BieimlE1nB7BFZWgcotUS2AGeyGPndfpw+gjO6WXLVgnqwAAAAA==
   alt: A speedometer.
 ---
 
-# Prime Numbers Database and Testing
+# Table of Contents
+
+1. [Objective](#objective)
+2. [Context](#context)
+3. [Technologies Used](#technologies-used)
+   - [Python3](#python3)
+   - [Matplotlib](#matplotlib)
+   - [Numpy](#numpy)
+   - [Multiprocessing](#multiprocessing)
+   - [Pathos](#pathos)
+   - [LaTeX](#latex)
+   - [MySQL](#mysql)
+4. [Project Repository](#project-repository)
+5. [License](#license)
+6. [References](#references)
 
 ## Objective
 

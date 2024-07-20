@@ -6,10 +6,28 @@ tags: [java, game]
 render_with_liquid: false
 image:
   path: /board-game.webp
+  lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAADQCQCdASoyACEAPp1CnUqlo6KhqrQLALATiWUAx40vScemAQK6ELOhQM/Ah837hmqvvuA4Q4LwFCVmOQoo2J3Am8vN7hFJQtygFoxq6y1lW+nSQcPxThgA/v2uY2tA78NPN1uZzavqdPWS8ZluepEc8PmNEPxAa7IKIjGq0w/jpZF2xQHkscBFE0sKuLsEcMGqvg+QBPDnKmIC650g2qY8zSl/FOiSTgKSviBazcluwK5k1Ct9eC2usqhOUsByeiLVFtBhDQTXtO990xTo6rAxuPJvwxtnyBv8rpZkaDbouE7xO8sIZbw/osPf8+x4GWQeZc7wMwDIAt8637Ko1qXft2rL5Q8ypSLf/8Fybv2ek9RiTFuMuVVJrqr4/QJfwQxQKc2/eYpF5HcSGA+M907hpXZHnSnxhjbXlpt/h5heVvyhUcTH8JG/ZZ5SnekB8wPQxJU/X8VcsnvOADlDwjANuFha7SBw6ZC/whV8SUhXNJNMkusG3ge/vzyA2xBs0fSVoGqfU5jaLb8wUIdDb8ZloCyDaOd9uk8qa0qCrLhh4+0hyGz9AMUQlkS8Bx3DfASPqH7r7jKJpGfRPBHeZO2yK4Gia5h69ZgQ6TCkkuA/aIgY0GbejjIxOZEg0AAA
   alt: A board game.
 ---
 
-# Developing Citadelles: An Object-Oriented Board Game Project
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Learning and Applying Object-Oriented Programming](#learning-and-applying-object-oriented-programming)
+   - [Why Object-Oriented Programming?](#why-object-oriented-programming)
+   - [Resources for Learning OOP](#resources-for-learning-oop)
+4. [Development Process](#development-process)
+   - [Initial Setup](#initial-setup)
+   - [Designing the Game](#designing-the-game)
+     - [Class Diagrams](#class-diagrams)
+     - [Core Classes](#core-classes)
+5. [Challenges and Solutions](#challenges-and-solutions)
+   - [Team Collaboration](#team-collaboration)
+   - [Implementing Game Rules](#implementing-game-rules)
+   - [User Interface Design](#user-interface-design)
+6. [Conclusion](#conclusion)
+7. [References](#references)
 
 ## Introduction
 
