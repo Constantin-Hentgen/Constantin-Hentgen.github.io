@@ -13,11 +13,9 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# The Power of the Vote
+**The Power of the Vote** is a project undertaken as part of the preparatory training at ESAIP. This project is a communication initiative aimed at opening a discussion on the theme of democracy. It features a simple frontend website that showcases historical information about French politics, providing insights into the evolution and significance of democratic processes in France.
 
-**The Power of the Vote** is a personal project undertaken as part of the preparatory training at ESAIP. This project is a communication initiative aimed at opening a discussion on the theme of democracy. It features a simple frontend website that showcases historical information about French politics, providing insights into the evolution and significance of democratic processes in France.
-
-## Table of Contents
+# Table of Contents
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
@@ -27,11 +25,11 @@ image:
 - [License](#license)
 - [References](#references)
 
-## Introduction
+# Introduction
 
 The Power of the Vote is designed to educate and provoke thought about the role of voting and democratic participation in French history. This project reflects an effort to engage users in a meaningful discussion about democracy and its impact on society. By exploring the historical context and evolution of French political systems, the website aims to promote awareness and understanding of democratic principles.
 
-## Project Overview
+# Project Overview
 
 The website serves as an informational platform that:
 
@@ -39,12 +37,12 @@ The website serves as an informational platform that:
 - **Showcases Democratic Milestones:** Highlights significant moments and reforms that have shaped the democratic landscape in France.
 - **Encourages Discussion:** Aims to stimulate debate and reflection on the importance of voting and democratic engagement.
 
-## Features
+# Features
 
 - **Historical Timeline:** A chronological display of important events and developments in French politics.
 - **Biographical Information:** Profiles of key political figures who have influenced the course of French democracy.
 
-## Installation
+# Installation
 
 To run the website locally, follow these steps:
 
@@ -59,7 +57,7 @@ To run the website locally, follow these steps:
 
    For a simple frontend project, you may not have complex dependencies. Ensure you have a web server or development environment set up (e.g., using live-server, or simply opening the `index.html` file in a browser).
 
-## Usage
+# Usage
 
 1. **Open the website:**
 
@@ -69,12 +67,12 @@ To run the website locally, follow these steps:
 
    Browse through the historical timeline, read about key figures, and interact with the various elements designed to enhance your understanding of French political history and democracy.
 
-## License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/The-Power-of-the-Vote/blob/main/LICENSE) file for more information.
 
 ---
 
-## References
+# References
 
 - [The Power of the Vote GitHub Repository](https://github.com/Constantin-Hentgen/The-Power-of-the-Vote)

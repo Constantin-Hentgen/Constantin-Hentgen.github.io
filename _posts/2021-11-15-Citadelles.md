@@ -10,58 +10,55 @@ image:
   alt: A board game.
 ---
 
-## Table of Contents
+As part of the Object-Oriented Programming (OOP) course at ESAIP, a school of engineering, I worked with a team to develop Citadelles, a digital version of a popular board game. This project allowed us to apply our OOP skills in a collaborative environment. The team comprised Constantin Hentgen, Mathieu Guignard, Alan Grillo, and Rémi Guérin. Here, I share our development journey, the challenges we faced, and the resources that aided us along the way.
 
-1. [Introduction](#introduction)
-2. [Project Overview](#project-overview)
-3. [Learning and Applying Object-Oriented Programming](#learning-and-applying-object-oriented-programming)
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Learning and Applying Object-Oriented Programming](#learning-and-applying-object-oriented-programming)
    - [Why Object-Oriented Programming?](#why-object-oriented-programming)
    - [Resources for Learning OOP](#resources-for-learning-oop)
-4. [Development Process](#development-process)
+3. [Development Process](#development-process)
    - [Initial Setup](#initial-setup)
    - [Designing the Game](#designing-the-game)
      - [Class Diagrams](#class-diagrams)
      - [Core Classes](#core-classes)
-5. [Challenges and Solutions](#challenges-and-solutions)
+4. [Challenges and Solutions](#challenges-and-solutions)
    - [Team Collaboration](#team-collaboration)
    - [Implementing Game Rules](#implementing-game-rules)
    - [User Interface Design](#user-interface-design)
-6. [Conclusion](#conclusion)
-7. [References](#references)
+5. [Conclusion](#conclusion)
+6. [References](#references)
 
-## Introduction
-
-As part of the Object-Oriented Programming (OOP) course at ESAIP, a school of engineering, I worked with a team to develop Citadelles, a digital version of a popular board game. This project allowed us to apply our OOP skills in a collaborative environment. The team comprised Constantin Hentgen, Mathieu Guignard, Alan Grillo, and Rémi Guérin. Here, I share our development journey, the challenges we faced, and the resources that aided us along the way.
-
-## Project Overview
+# Project Overview
 
 Citadelles is a digital adaptation of the Citadelles board game, implemented using object-oriented programming principles. The project involved designing and coding various game components, such as characters, districts, and game logic, to create a functional and engaging game experience.
 
-## Learning and Applying Object-Oriented Programming
+# Learning and Applying Object-Oriented Programming
 
-### Why Object-Oriented Programming?
+## Why Object-Oriented Programming?
 
 Object-oriented programming is a paradigm that uses objects and classes to structure software. It promotes code reuse, modularity, and scalability, making it ideal for complex applications like games.
 
-### Resources for Learning OOP
+## Resources for Learning OOP
 
 - **OOP Principles:** Understanding the four main principles of OOP—encapsulation, inheritance, polymorphism, and abstraction—was crucial. [GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) offers a comprehensive guide on these concepts.
 - **Design Patterns:** We referred to the book _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides to understand common solutions to recurring design problems.
 - **Online Tutorials:** Websites like [Coursera](https://www.coursera.org/) and [Udemy](https://www.udemy.com/) provided courses on OOP and game development.
 
-## Development Process
+# Development Process
 
-### Initial Setup
+## Initial Setup
 
 We started by setting up a shared repository on GitHub for version control and collaboration. This ensured that all team members could contribute and track changes efficiently.
 
-### Designing the Game
+## Designing the Game
 
-#### Class Diagrams
+### Class Diagrams
 
 Creating class diagrams helped us visualize the structure of the game and the relationships between different components. Key classes included `Game`, `Player`, `Character`, `District`, and `Deck`.
 
-#### Core Classes
+### Core Classes
 
 Here is an example of how we defined one of the type of characters, the `Roi` class:
 
