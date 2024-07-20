@@ -10,6 +10,8 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
+Welcome to the Ctrl+Alt+Discuss project! This project combines the powerful capabilities of OpenAI, Eleven Labs AI, and RSS feed aggregation to automatically create podcasts. The core of this solution relies on the GPT-3.5-turbo language model from OpenAI to generate podcast scripts, complemented by Eleven Labs' Text-to-Speech (TTS) to bring these scripts to life.
+
 # Table of Contents
 
 1. [Objective](#objective)
@@ -23,27 +25,25 @@ image:
    - [Running the Project](#running-the-project)
 4. [References](#references)
 
-Welcome to the Ctrl+Alt+Discuss project! This project combines the powerful capabilities of OpenAI, Eleven Labs AI, and RSS feed aggregation to automatically create podcasts. The core of this solution relies on the GPT-3.5-turbo language model from OpenAI to generate podcast scripts, complemented by Eleven Labs' Text-to-Speech (TTS) to bring these scripts to life.
-
-## Objective
+# Objective
 
 The goal of this project is to simplify podcast creation by automating the content generation process. By leveraging state-of-the-art natural language processing and speech technologies, aim to provide relevant and accurate content on demand.
 
-## Features
+# Features
 
-### RSS Feed Aggregation
+## RSS Feed Aggregation
 
 The project starts by aggregating RSS feeds from predefined sources. These RSS feeds provide the foundational content for podcast episodes.
 
-### Script Generation with GPT
+## Script Generation with GPT
 
 The OpenAI GPT-3.5-turbo model is used to generate podcast scripts from content extracted from the RSS feeds. This model can understand context and produce high-quality natural language.
 
-### Text-to-Speech with Eleven Labs
+## Text-to-Speech with Eleven Labs
 
 Generated scripts are then converted into audio files using Eleven Labs' Text-to-Speech (TTS) technology. This step gives a realistic and pleasant voice to the scripts, creating the final podcast audio.
 
-## Configuration
+# Configuration
 
 Make sure that you’re inside the virtual environement :
 
@@ -61,7 +61,7 @@ Otherwise try the following command :
 poetry env use env_name||python||python3||python3.X
 ```
 
-### Installing Dependencies
+## Installing Dependencies
 
 Make sure to install the necessary dependencies by running the following command:
 
@@ -70,7 +70,7 @@ cd Ctrl_Alt_Discuss
 poetry install --no-root
 ```
 
-### Setting Environment Variables
+## Setting Environment Variables
 
 ```bash
 export POETRY_OPENAI_API_KEY="your_openai_api_key_here"
@@ -78,14 +78,15 @@ export POETRY_XI_API_KEY="your_xi_api_key_here"
 export POETRY_CAD_ROOT_PATH="/path/to/Ctrl_Alt_Discuss"
 ```
 
-### Running the project
+## Running the project
 
 ```bash
 cd Ctrl_Alt_Discuss
 poetry run python -i src/main.py
 ```
+___
 
-## References
+# References
 
 - [OpenAI GPT-3.5-turbo](https://platform.openai.com/)
 - [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech)

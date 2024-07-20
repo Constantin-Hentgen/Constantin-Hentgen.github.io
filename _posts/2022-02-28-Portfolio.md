@@ -10,21 +10,19 @@ image:
   alt: A man is typing on a laptop.
 ---
 
-# Table of Contents
-
-1. [Context](#context)
-2. [Technologies Used](#technologies-used)
-3. [Project Repository](#project-repository)
-4. [License](#license)
-5. [References](#references)
-
-## Context
 
 Web development is the spark that ignited my passion for computer science. My journey began with simple HTML and CSS, but it quickly evolved into a deeper interest in creating more sophisticated web applications. Building my own website was a natural progression—a way to apply and showcase what I have learned over the years.
 
 This website serves as a clean and professional representation of who I am. It highlights my background, skills, and key projects, providing a comprehensive view of my work and expertise.
 
-## Technologies Used
+# Table of Contents
+
+1. [Technologies Used](#technologies-used)
+2. [Project Repository](#project-repository)
+3. [License](#license)
+4. [References](#references)
+
+# Technologies Used
 
 To create a modern and functional portfolio website, I utilized several advanced technologies:
 
@@ -47,19 +45,19 @@ To create a modern and functional portfolio website, I utilized several advanced
 - **Font Awesome**: A popular library of vector icons and social logos. Font Awesome enhances the visual appeal of the website by providing scalable icons that are easy to integrate and customize.
   - _Source:_ [Font Awesome Official Website](https://fontawesome.com/)
 
-## Project Repository
+# Project Repository
 
 For more details on the development process, access the source code, and explore the project, visit the GitHub repository:
 
 - [Portfolio GitHub Repository](https://github.com/Constantin-Hentgen/Portfolio)
 
-## License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/Portfolio/blob/main/LICENSE) file for more information.
 
 ---
 
-## References
+# References
 
 - [Vue.js Official Website](https://vuejs.org/)
 - [Vue I18n Documentation](https://vue-i18n.intlify.dev/)

@@ -10,11 +10,12 @@ image:
   alt: A speedometer.
 ---
 
+This project was initiated as a Python-based exercise during my Erasmus program in Denmark. It serves as a practical application of mathematical concepts and programming skills, combining computational techniques with mathematical theory.
+
 # Table of Contents
 
 1. [Objective](#objective)
-2. [Context](#context)
-3. [Technologies Used](#technologies-used)
+2. [Technologies Used](#technologies-used)
    - Python3
    - Matplotlib
    - Numpy
@@ -22,19 +23,16 @@ image:
    - Pathos
    - LaTeX
    - MySQL
-4. [Project Repository](#project-repository)
-5. [License](#license)
-6. [References](#references)
+3. [Project Repository](#project-repository)
+4. [License](#license)
+5. [References](#references)
 
-## Objective
+# Objective
 
 The goal of this project is to build a database of prime numbers and notable primes, as well as to provide functions for testing prime numbers. This resource aims to be a useful tool for mathematical applications and number theory research.
 
-## Context
 
-This project was initiated as a Python-based exercise during my Erasmus program in Denmark. It serves as a practical application of mathematical concepts and programming skills, combining computational techniques with mathematical theory.
-
-## Technologies Used
+# Technologies Used
 
 The development of this project involved several technologies and libraries:
 
@@ -64,19 +62,19 @@ The development of this project involved several technologies and libraries:
 - **MySQL**: A relational database management system used to store and manage the prime numbers database. MySQL provides a robust and efficient way to handle large datasets.
   - _Source:_ [MySQL Official Website](https://www.mysql.com/)
 
-## Project Repository
+# Project Repository
 
 For more details on the implementation, access the source code, and explore the project, visit the GitHub repository:
 
 - [Prime Numbers Database and Testing GitHub Repository](https://github.com/Constantin-Hentgen/Prime-Numbers-Database)
 
-## License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Constantin-Hentgen/Prime-Numbers-Database/blob/main/LICENSE) file for more information.
 
 ---
 
-## References
+# References
 
 - [Python Official Website](https://www.python.org/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)

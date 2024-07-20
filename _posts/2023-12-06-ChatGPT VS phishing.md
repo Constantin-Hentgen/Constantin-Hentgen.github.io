@@ -10,48 +10,47 @@ image:
   alt: A computer screen display the logo of the company Openai.
 ---
 
-# Table of Contents
-
-1. [Introduction](#introduction)
-2. [Project Overview](#project-overview)
-3. [Learning and Utilizing ChatGPT](#learning-and-utilizing-chatgpt)
-   - [Why ChatGPT?](#why-chatgpt)
-   - [Resources for Learning About ChatGPT](#resources-for-learning-about-chatgpt)
-4. [Development Process](#development-process)
-   - [Initial Setup](#initial-setup)
-   - [Chrome Extension Development](#chrome-extension-development)
-5. [Challenges and Solutions](#challenges-and-solutions)
-   - [Understanding AI](#understanding-ai)
-   - [API Limitations](#api-limitations)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-
-## Introduction
-
 As part of a university project at the THB IT department in Germany, I developed a Chrome extension that leverages ChatGPT to detect phishing attempts. The result is [ChatGPT vs. Phishing](https://github.com/Constantin-Hentgen/chatgpt_VS_phishing), a tool designed to help users identify and avoid phishing scams while browsing the web. Here, I share my development journey, the challenges I faced, and the resources that aided me along the way.
 
-## Project Overview
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Learning and Utilizing ChatGPT](#learning-and-utilizing-chatgpt)
+   - [Why ChatGPT?](#why-chatgpt)
+   - [Resources for Learning About ChatGPT](#resources-for-learning-about-chatgpt)
+3. [Development Process](#development-process)
+   - [Initial Setup](#initial-setup)
+   - [Chrome Extension Development](#chrome-extension-development)
+4. [Challenges and Solutions](#challenges-and-solutions)
+   - [Understanding AI](#understanding-ai)
+   - [API Limitations](#api-limitations)
+5. [Conclusion](#conclusion)
+6. [References](#references)
+
+# Project Overview
 
 ChatGPT vs. Phishing is a Chrome extension that uses OpenAI's GPT model to analyze web content and detect phishing characteristics. This project allowed me to delve into both AI and cybersecurity, providing a practical solution to a pervasive issue.
 
-## Learning and Utilizing ChatGPT
+# Learning and Utilizing ChatGPT
 
-### Why ChatGPT?
+## Why ChatGPT?
 
 ChatGPT, developed by OpenAI, is a powerful language model capable of understanding and generating human-like text. Its ability to analyze and interpret text makes it an ideal tool for detecting the subtle nuances often present in phishing attempts.
 
-### Resources for Learning About ChatGPT
+## Resources for Learning About ChatGPT
 
 - **OpenAI Documentation:** The [OpenAI API documentation](https://beta.openai.com/docs/) provides comprehensive guides on how to use the GPT model, including examples and best practices.
 - **OpenAI Community:** The [OpenAI Community Forum](https://community.openai.com/) is a valuable resource for connecting with other developers, sharing experiences, and finding solutions to common issues.
 
-## Development Process
+# Development Process
 
-### Initial Setup
+## Initial Setup
 
 The first step was setting up the development environment. I created a new project repository on GitHub and set up the necessary tools and dependencies for Chrome extension development and AI integration.
 
-## Chrome Extension Development
+# Chrome Extension Development
+
+*TBD*
 
 # Challenges and Solutions
 
