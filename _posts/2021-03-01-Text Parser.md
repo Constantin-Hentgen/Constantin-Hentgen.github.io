@@ -2,7 +2,7 @@
 title: Text-Parser
 date: 2021-03-01 12:00:00 +0100
 categories: [Personal project, Statistics]
-tags: [python, languages]
+tags: [python, languages, math]
 pin: true
 image:
   path: /book-page.webp
