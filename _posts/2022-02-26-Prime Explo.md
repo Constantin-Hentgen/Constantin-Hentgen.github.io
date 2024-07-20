@@ -15,13 +15,13 @@ image:
 1. [Objective](#objective)
 2. [Context](#context)
 3. [Technologies Used](#technologies-used)
-   - [Python3](#python3)
-   - [Matplotlib](#matplotlib)
-   - [Numpy](#numpy)
-   - [Multiprocessing](#multiprocessing)
-   - [Pathos](#pathos)
-   - [LaTeX](#latex)
-   - [MySQL](#mysql)
+   - Python3
+   - Matplotlib
+   - Numpy
+   - Multiprocessing
+   - Pathos
+   - LaTeX
+   - MySQL
 4. [Project Repository](#project-repository)
 5. [License](#license)
 6. [References](#references)

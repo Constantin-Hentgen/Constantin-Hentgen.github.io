@@ -137,14 +137,14 @@ ppublic void test7(){
 
 # Challenges and Solutions
 
-Team Collaboration
+## Team Collaboration
 Coordinating work among team members was challenging. We used GitHub issues and pull requests to manage tasks and code reviews, ensuring consistent code quality and integration.
 
-# Implementing Game Rules
+## Implementing Game Rules
 
 Translating complex game rules into code required careful planning and testing. We wrote unit tests for each game component to ensure correctness and robustness.
 
-# User Interface Design
+## User Interface Design
 
 Creating an intuitive and appealing user interface was crucial for player engagement. We iterated on the design based on feedback from peers and test users, improving usability and aesthetics.
 

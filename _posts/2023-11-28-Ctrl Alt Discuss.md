@@ -15,7 +15,7 @@ image:
 1. [Objective](#objective)
 2. [Features](#features)
    - [RSS Feed Aggregation](#rss-feed-aggregation)
-   - [Script Generation with GPT-3.5-turbo](#script-generation-with-gpt-35-turbo)
+   - [Script Generation with GPT-3.5-turbo](#script-generation-with-gpt-3.5-turbo)
    - [Text-to-Speech with Eleven Labs](#text-to-speech-with-eleven-labs)
 3. [Configuration](#configuration)
    - [Installing Dependencies](#installing-dependencies)
@@ -31,15 +31,15 @@ The goal of this project is to simplify podcast creation by automating the conte
 
 ## Features
 
-### 1. RSS Feed Aggregation
+### RSS Feed Aggregation
 
 The project starts by aggregating RSS feeds from predefined sources. These RSS feeds provide the foundational content for podcast episodes.
 
-### 2. Script Generation with GPT-3.5-turbo
+### Script Generation with GPT-3.5-turbo
 
 The OpenAI GPT-3.5-turbo model is used to generate podcast scripts from content extracted from the RSS feeds. This model can understand context and produce high-quality natural language.
 
-### 3. Text-to-Speech with Eleven Labs
+### Text-to-Speech with Eleven Labs
 
 Generated scripts are then converted into audio files using Eleven Labs' Text-to-Speech (TTS) technology. This step gives a realistic and pleasant voice to the scripts, creating the final podcast audio.
 
@@ -78,7 +78,7 @@ export POETRY_XI_API_KEY="your_xi_api_key_here"
 export POETRY_CAD_ROOT_PATH="/path/to/Ctrl_Alt_Discuss"
 ```
 
-### Run the project
+### Running the project
 
 ```bash
 cd Ctrl_Alt_Discuss
