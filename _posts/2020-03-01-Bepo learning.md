@@ -55,7 +55,8 @@ The [official BÉPO website](https://bepo.fr/wiki/Accueil) is an invaluable reso
 
 AFNOR (Association Française de Normalisation) provides the official standards for various technical and industrial practices in France, including keyboard layouts. You can find more about the NF Z71-300 standard on their [website](https://www.afnor.org/). The BÉPO layout is actually one of the two recognized standard french keyboard layouts.
 
-### KTouch ![Desktop View](/ktouch.webp){: width="972" height="589" .w-50 .right}
+### KTouch
+![Desktop View](/ktouch.webp){: width="972" height="589" .w-50 .right}
 
 [KTouch](https://apps.kde.org/ktouch/) is an excellent typing tutor program that supports the BÉPO layout. It provides structured lessons and real-time feedback to help you improve your typing speed and accuracy.
 
