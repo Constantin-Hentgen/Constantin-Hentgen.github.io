@@ -4,6 +4,9 @@ date: 2024-01-12 12:00:00 +0100
 categories: [Personal project, Web Development]
 tags: [web, portfolio, javascript, front-end, jekyll]
 render_with_liquid: false
+image:
+  path: /web-development.webp
+  alt: A laptop displaying code.
 ---
 
 # Developing a Long-Term Portfolio with Jekyll and Chirpy Theme
