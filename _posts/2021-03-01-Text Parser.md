@@ -6,6 +6,7 @@ tags: [python, languages, math]
 pin: true
 image:
   path: /book-page.webp
+  lqip: data:image/webp;base64,UklGRtwBAABXRUJQVlA4INABAABQCQCdASoyACEAPtFYpk4oJKMiKrgLAQAaCWkAE5c8Daxfpa+sywgeLICV1d0TyqtOVwl1f1XKAq3lDB1Gm/cQAxOstbQqNZrM6ag6gT/4UZaIAAD+9RmgPpXG7hdp1A2Ede+MzjX3KYM8JlQhisfoCx5qX/auR4PYFmpz7W5F7TbPxrizVykyaDjHWmWWE+krM60ZDPSjVVHwVU3oIhQG96Ae6q074EhbEiNS5CteV/E0vzxTlqNAttT0UXCM5kdaH13I1rfWvsRgxNg5W9Y2DNNO/4ZIFN1JkQM9ck/Pp3tQ0jL7gt5INMamZORtumFLPq/qu6B7TgGjTTGEBQ8sAomZCAvDP++tfhuQku+dReo6YnJwi0RxrVl6TnC16OyxWq95Uxuk465BbFkzzrXZRuoHwGkH5ekxM5h0LEEBqeiARxfvKrV0I3FFlHufS+LDXO5On42lnAZxNDIR0aOLcUsgENkLQrHmj1yRNc1fbLObnkIfJeFlN2strv1nV1Yw0NxXfPbg12NDRnwKxl+KkN4h6HYo9Wr+DUE37QNRpMnagCcA7b+SfL+hA+PoAQC3FHLGMLIEBdrvFheqWkpwHpyUDYGxDdX1wmPRSgAAAA==
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 # Typing Frequency Analysis Program

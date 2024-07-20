@@ -2,14 +2,29 @@
 title: ChatGPT VS phishing
 date: 2023-12-06 12:00:00 +0100
 categories: [Academic project]
-tags: [python, statistics, ai, cybersecurity]
+tags: [python, statistics, artificial intelligence, cybersecurity]
 render_with_liquid: false
 image:
   path: /openai.webp
+  lqip: data:image/webp;base64,UklGRo4BAABXRUJQVlA4IIIBAAAwCACdASoyACEAPm0okUWkIiGarAQAQAbEoAsR/fN3YCUO/ZWdGDSB7TMOJkAiQ3YC6cPCfFVgsdYOUhuwt9EQ/2bmg2bxQrr8gAD+/EdrdDX5s/z23xeSD/ir9ixDyaWE7dlihhqrJT9sBrnZjJw5pF7E36pITb6nyTCh/J6fPxwfnnR9yApxZA4sP6Cz3o53lBY4j9Va4LNQnue6ShNdYhZW7rcB9u1djvLo0077KTZMBuh5m7MpYR2psuuBgivzt/hxcbJ85y5wNnboh6SO9sGBYRu4G7iA3gbD1iO1pfyAn5mW/rr6DI1z6nE+PzKKQgHKP/ER6VYseEpWmEl1+NdCTJ0otG8JGSfB5KizxA0ba6u6PBjPwtb8vkyxtPxwLVcGvGXh1ELeN+AzpqpLYnnsDk8XS5y6xwMYA6Q3WI1LYISut8uVBydD1nntjt/pNiBQh0oAXU8xHNgzT5u3Jb+7JKTM1+BRmHUJuzs7OKsRfkVGkJRChwCcg1YdImAAAA==
   alt: A computer screen display the logo of the company Openai.
 ---
 
-# Developing ChatGPT vs. Phishing: A Chrome Extension for Cybersecurity
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Learning and Utilizing ChatGPT](#learning-and-utilizing-chatgpt)
+   - [Why ChatGPT?](#why-chatgpt)
+   - [Resources for Learning About ChatGPT](#resources-for-learning-about-chatgpt)
+4. [Development Process](#development-process)
+   - [Initial Setup](#initial-setup)
+   - [Chrome Extension Development](#chrome-extension-development)
+5. [Challenges and Solutions](#challenges-and-solutions)
+   - [Understanding AI](#understanding-ai)
+   - [API Limitations](#api-limitations)
+6. [Conclusion](#conclusion)
+7. [References](#references)
 
 ## Introduction
 

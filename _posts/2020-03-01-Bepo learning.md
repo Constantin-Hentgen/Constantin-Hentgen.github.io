@@ -7,6 +7,7 @@ tags: [keyboard layout, languages, optimization]
 pin: false
 image:
   path: /keyboard.webp
+  lqip: data:image/webp;base64,UklGRuYBAABXRUJQVlA4INoBAADQCACdASoyABwAPoE0kkglIyGhN+wAoBAJaQAOmbZjKB4EaThnwjZiVV73MwprF9YslM8h2cJ39AkHCeJW87kZwhfM11RuxzN8uhSIqJ6gAP7x/jODocPBb+s37RfSfg6udI2nhudtMMF5kRzHXgetYApHZ7eJJjglyB/I6EZdEuTb9vx39FOTZvQOVFYXbtavnsJ1u7e4ZOWS+5VgWVE5cTrngj5rhgP/gnjdrDD8EvlbCIFyN0Cv+vd2u7BcrgUsPSVcXFkpMMQK0a3/j6h4IPWXWl1oxMy8p/APn4DpdloVU5Tsbl5PkhEN9bu9g2CC/PcV8Xd6Pkof7/YLxlivfpTWfI8PD5i/Gj1D2VZVxa9cLqR1mpss0kf6HWMsm+2/lyNRWbL5cwE4gXfJe41Im6HAELqRm8XHf0eG662PAD9KOnUcRFh2h5+Vhne07Kuw37RhLP8b/aTxTstah0gH2FNEUWN7iqFb+aDmiLR1sDq8Su++/t0lBxWZxJmcRKC6pzTMwNZFbnj/IF4x+qdg0AmwFVzVBM/JgO0SZHotFttL+VxfDDqEqS4nkWa8+wI36Q6eVUBSni+EwXjjqAQeXdCM1h+owVaMCSMa/hjNtc0ktYu5Z9QAAAA=
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 

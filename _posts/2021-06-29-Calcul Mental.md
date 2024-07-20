@@ -6,10 +6,24 @@ tags: [web, math, php]
 render_with_liquid: false
 image:
   path: /brain.webp
+  lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAABQCwCdASoyACYAPjEUh0KiIQwGAwAQAYJQBOmarDe+HooHjVMpO0cDjksAIhjgNS+ZC9xy4Nq1dgkmfhv2ZD3LRZoPFQslO4nPOk02qh3welz8uDF6e90oFX08mNFexnWpzqwA/vLnv3cTDrQpBXCTYtEQpkPa7/9tD/y7//+RS3+tt/8MsjhGpCdieBxaaGxo5VhaZV/dSTwt2WlBrJFhVAgJ8lnIUL9faOmD3cLVRZktW/xhkvnwbXRY+3uQdknlpm2gfMW4/Yfx1s5q+idkyS6qKC8xauiI0LR5/IoU3OC8z/Hz0L/cLQSvraezaSPBVvxHMHLUZnHPCtLDr4sukQ1Ekz4fwAo8kn3eSr/V9X/2WrKF8JlXxj/iljHWqdE1L4su7x9U4KFqTk77ufdj/IglHxJERU2bzmASg1Tq1E0i142s8U5EpYxuffCZ46Ae0meSiEAAAA==
   alt: A brain.
 ---
 
-# Developing Calcul Mental: A Journey into PHP and Mental Arithmetic
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Learning PHP](#learning-php)
+   - [Why PHP?](#why-php)
+   - [Resources for Learning PHP](#resources-for-learning-php)
+4. [Development Process](#development-process)
+   - [Initial Setup](#initial-setup)
+   - [Creating the Application](#creating-the-application)
+     - [Frontend](#frontend)
+     - [Backend](#backend)
+5. [Conclusion](#conclusion)
+6. [References](#references)
 
 ## Introduction
 
