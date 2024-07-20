@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 date: 2022-02-28 12:00:00 +0100
-categories: [Personal project, Web Development]
+categories: [App, Website]
 tags: [web, javascript]
 render_with_liquid: false
 image:

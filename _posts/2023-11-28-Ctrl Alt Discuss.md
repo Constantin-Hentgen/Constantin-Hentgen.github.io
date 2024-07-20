@@ -1,7 +1,7 @@
 ---
 title: Ctrl Alt Discuss
 date: 2023-11-28 12:00:00 +0100
-categories: [Personal project]
+categories: [App, Software]
 tags: [cybersecurity, python, artificial intelligence]
 pin: true
 image:
