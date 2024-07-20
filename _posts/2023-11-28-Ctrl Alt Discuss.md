@@ -15,7 +15,7 @@ image:
 1. [Objective](#objective)
 2. [Features](#features)
    - [RSS Feed Aggregation](#rss-feed-aggregation)
-   - [Script Generation with GPT-3.5-turbo](#script-generation-with-gpt-3.5-turbo)
+   - [Script Generation with GPT](#script-generation-with-gpt)
    - [Text-to-Speech with Eleven Labs](#text-to-speech-with-eleven-labs)
 3. [Configuration](#configuration)
    - [Installing Dependencies](#installing-dependencies)
@@ -35,7 +35,7 @@ The goal of this project is to simplify podcast creation by automating the conte
 
 The project starts by aggregating RSS feeds from predefined sources. These RSS feeds provide the foundational content for podcast episodes.
 
-### Script Generation with GPT-3.5-turbo
+### Script Generation with GPT
 
 The OpenAI GPT-3.5-turbo model is used to generate podcast scripts from content extracted from the RSS feeds. This model can understand context and produce high-quality natural language.
 
