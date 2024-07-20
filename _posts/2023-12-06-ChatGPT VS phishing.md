@@ -1,7 +1,7 @@
 ---
 title: ChatGPT VS phishing
 date: 2023-12-06 12:00:00 +0100
-categories: [Academic project]
+categories: [App, Browser Extension]
 tags: [python, statistics, artificial intelligence, cybersecurity]
 render_with_liquid: false
 image:

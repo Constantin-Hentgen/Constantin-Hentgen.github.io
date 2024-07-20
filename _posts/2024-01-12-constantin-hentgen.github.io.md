@@ -1,7 +1,7 @@
 ---
 title: constantin-hentgen.github.io
 date: 2024-01-12 12:00:00 +0100
-categories: [Personal project, Web Development]
+categories: [App, Website]
 tags: [web]
 render_with_liquid: false
 image:
