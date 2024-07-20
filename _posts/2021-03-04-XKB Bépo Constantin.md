@@ -19,7 +19,6 @@ image:
 2. [What is the purpose of this repository?](#what-is-the-purpose-of-this-repository)
 3. [What's the matter basically?](#whats-the-matter-basically)
 4. [What if I want to try it out?](#what-if-i-want-to-try-it-out)
-5. [Boring stuff](#boring-stuff)
 
 ---
 
