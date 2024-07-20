@@ -3,9 +3,7 @@ title: Ctrl Alt Discuss
 date: 2023-11-28 12:00:00 +0100
 categories: [Personal project]
 tags: [podcast, spotify, cybersecurity, python, openai, chatgpt]
-render_with_liquid: false
 pin: true
-math: false
 image:
   path: /micro.webp
   alt: Responsive rendering of Chirpy theme on multiple devices.

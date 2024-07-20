@@ -5,7 +5,27 @@ date: 2020-03-01 12:00:00 +0100
 categories: [Personal development, Ergonomy]
 tags: [keyboard layout, languages, optimization]
 pin: false
+image:
+  path: /keyboard.webp
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [What is BÉPO?](#what-is-bépo)
+3. [Resources for Learning BÉPO](#resources-for-learning-bépo)
+   - [Official BÉPO Website](#official-bépo-website)
+   - [AFNOR](#afnor)
+   - [KTouch](#ktouch)
+   - [Monkeytype](#monkeytype)
+   - [10FastFingers](#10fastfingers)
+4. [My Learning Journey](#my-learning-journey)
+   - [Initial Setup](#initial-setup)
+   - [Practice Routine](#practice-routine)
+   - [Progress and Challenges](#progress-and-challenges)
+5. [Conclusion](#conclusion)
+6. [References](#references)
 
 > I don’t advise you to dive in this kind of experience as it requires tons of hours of training for a very substantial gain. It took me around 10 months to reach my previous typing speed and comfort, around 2 years to be significantly faster.
 {: .prompt-warning }

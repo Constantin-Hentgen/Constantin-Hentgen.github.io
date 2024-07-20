@@ -4,6 +4,9 @@ date: 2022-02-28 12:00:00 +0100
 categories: [Personal project, Web Development]
 tags: [web, portfolio, javascript, vue.js, front-end]
 render_with_liquid: false
+image:
+  path: /laptop.webp
+  alt: A man is typing on a laptop.
 ---
 
 # My Professional Portfolio Website

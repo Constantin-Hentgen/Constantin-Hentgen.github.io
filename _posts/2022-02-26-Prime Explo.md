@@ -4,6 +4,9 @@ date: 2022-02-26 12:00:00 +0100
 categories: [Personal project, Statistics]
 tags: [python, statistics, mathematics, computing]
 render_with_liquid: false
+image:
+  path: /speedometer.webp
+  alt: A speedometer.
 ---
 
 # Prime Numbers Database and Testing

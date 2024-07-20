@@ -8,7 +8,7 @@ render_with_liquid: false
 pin: false
 math: false
 image:
-  path: /assemblee_nationale.webp
+  path: /assemblee-nationale.webp
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
@@ -49,10 +49,10 @@ To run the website locally, follow these steps:
 
 1. **Clone the repository:**
 
-   "bash
+```bash
    git clone https://github.com/Constantin-Hentgen/The-Power-of-the-Vote.git
    cd The-Power-of-the-Vote
-   "
+```
 
 2. **Install dependencies:**
 
