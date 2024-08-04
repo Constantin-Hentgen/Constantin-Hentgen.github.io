@@ -2,7 +2,7 @@
 title: BÉPO learning
 description: My learning of an ergonomic keyboard configuration.
 date: 2020-03-01 12:00:00 +0100
-categories: [Optimization, Keyboard Layout]
+categories: [Configuration, Keyboard Layout]
 tags: [keyboard layout, languages, optimization]
 pin: false
 image:

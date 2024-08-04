@@ -1,7 +1,7 @@
 ---
 title: Text-Parser
 date: 2021-03-01 12:00:00 +0100
-categories: [Optimization, Keyboard Layout]
+categories: [App, Software]
 tags: [python, languages, math]
 pin: true
 image:
